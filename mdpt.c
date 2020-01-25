@@ -14,7 +14,7 @@ scanf("%f",&x2);
 printf("Enter any value for y2: ");
 scanf("%f",&y2);
 
-mdpt = (push)/2 ;
+mdpt = (x1+x2)/2 ;
 mdpty = (y1+y2)/2;
 printf("the mid point is %.4f and %.4f ",mdpt,mdpty);
 
